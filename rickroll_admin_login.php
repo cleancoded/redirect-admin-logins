@@ -1,6 +1,7 @@
 <?php
 /**
  * Plugin Name: Redirect Admin Logins
+ * Plugin URI:  https://github.com/cleancoded/redirect-admin-logins
  * Description: Redirects users that try to log in with 'admin' username
  * Author: CLEANCODED
  * Author URI: https://cleancoded.com
